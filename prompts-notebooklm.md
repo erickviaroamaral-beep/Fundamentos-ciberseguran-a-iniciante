@@ -112,5 +112,3 @@ Depois que eu responder, quero utilizar a resposta para identificar quais concei
 
 Priorize a compreensão dos conceitos e a capacidade de diferenciar vulnerabilidades semelhantes, em vez de apenas memorizar definições.
 ```
-
-
